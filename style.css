@@ -8,6 +8,6 @@ body {
   color: white;
   background-size: cover;
   background-position: center;
-  background-color:rgba (0,0,0,0.5);
+  background-color:rgba(0,0,0,0.4);
   background-blend-mode: darken;
 }
