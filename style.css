@@ -4,6 +4,10 @@ body {
 
 .cover {
   height: 400px;
-  background-image:url(https://cdn.glitch.global/3812334f-436e-4c99-ba63-04ba865ab57b/Archivo_030.jpeg?v=1646432488996)
+  background-image:url(https://cdn.glitch.global/3812334f-436e-4c99-ba63-04ba865ab57b/Archivo_030.jpeg?v=1646432488996);
   color: white;
+  background-size: cover;
+  background-position: center;
+  background-color:rgba (0,0,0,0.5);
+  background-blend-mode: darken;
 }
