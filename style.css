@@ -4,45 +4,44 @@ body {
 
 .cover {
   height: 400px;
-  background-image:url(https://cdn.glitch.global/3812334f-436e-4c99-ba63-04ba865ab57b/Archivo_030.jpeg?v=1646432488996);
+  background-image: url(https://cdn.glitch.global/3812334f-436e-4c99-ba63-04ba865ab57b/Archivo_030.jpeg?v=1646432488996);
   color: white;
   background-size: cover;
   background-position: center;
-  background-color:rgba(0,0,0,0.4);
+  background-color: rgba(0, 0, 0, 0.4);
   background-blend-mode: darken;
 }
 
-.cover-small{
+.cover-small {
   height: 200px;
   background-blend-mode: normal;
-  }
-  
-.card{
+}
+
+.card {
   border: 0 !important;
-  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px (0,0,0,0.06);
-  }
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px (0, 0, 0, 0.06);
+}
 
-.card-title{
+.card-title {
   min-height: 3rem;
-  }
+}
 
-.card-text{
+.card-text {
   min-height: 10rem;
-  }
+}
 
-.product-stripe{
+.product-stripe {
   overflow-x: scroll;
   padding-top: 1rem;
   padding-bottom: 1rem;
-  
-  }
+}
 
-.stripe-container{
+.stripe-container {
   display: flex;
-  }
+}
 
-.stripe-container .card{
+.stripe-container .card {
   width: 300px;
   flex-shrink: 0;
   margin-right: 1rem;
-  }
+}
