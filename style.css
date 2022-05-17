@@ -30,13 +30,15 @@ body {
   min-height: 10rem;
 }
 
-.product-stripe, .slider {
+.product-stripe,
+.slider {
   overflow-x: scroll;
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
 
-.stripe-container, .slider-container {
+.stripe-container,
+.slider-container {
   display: flex;
 }
 
